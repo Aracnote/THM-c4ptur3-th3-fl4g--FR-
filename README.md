@@ -11,7 +11,7 @@
 
 *   C'est du binaire “**01101100 01100101 01110100 01110011 00100000 01110100 01110010 01111001 00100000 01110011 01101111 01101101 01100101 00100000 01100010 01101001 01101110 01100001 01110010 01111001 00100000 01101111 01110101 01110100 00100001**”
 *   **![](%20Translation%20%26%20Shifting/2_image.png)**
-    *   L'option “**\-d**” de la commande “**tr**” est utilisée pour supprimer des caractères spécifiés du flux d'entrée. Voici comment cela fonctionne :
+    *   L'option “**\-d**” de la commande “**tr**” est utilisée pour supprimer des caractères spécifiés du flux d'entrée
 
 3- Base32
 
