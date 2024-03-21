@@ -127,7 +127,7 @@
         *   Let's make this a bit trickier...  
              
 
-FINIT !!! 18/03/2024
+Finit !!! 18/03/2024
 
 # Security through obscurity
 1- 
