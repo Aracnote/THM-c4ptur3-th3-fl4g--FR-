@@ -128,29 +128,6 @@
 
 Finit !!! 18/03/2024
 
-# Security through obscurity
-1- 
-
-![](Security%20through%20obscurity/image.png)
-
-*   ![](Security%20through%20obscurity/1_image.png)
-    *   Utilisé l'utilitaire “**binwalk**” pour extraire les fichier cachés
-        *   “ **binwalk --run-as=root --dd=.\* meme\_1559010886025.jpg** ”
-*   ![](Security%20through%20obscurity/2_image.png)
-    *   hackerchat.png
-
-2-
-
-![](Security%20through%20obscurity/3_image.png)
-
-*   ![](Security%20through%20obscurity/4_image.png)
-    *   Extraire le fichier “ **hackerchat.png** ”
-        *   “ **unrar x 122A7** ”
-*   ![](Security%20through%20obscurity/5_image.png)
-*   ![](Security%20through%20obscurity/6_image.png)
-
-Finit !!! 21/03/2024
-
 # Spectrograms
 1- Installer Audacity 
 
@@ -164,7 +141,7 @@ Finit !!! 21/03/2024
 *   ![](Spectrograms/3_image.png)
     *   “Super Secret Message”
 
-Finit !!! 21/01/2024
+Finit !!! 21/03/2024
 
 # Steganography
 1- Télécharger l'image
@@ -192,5 +169,28 @@ Finit !!! 21/01/2024
     *   ![](Steganography/5_image.png)
 *   “ **cat steganopayload2248.txt**  ”
     *   ![](Steganography/6_image.png)                                                                                                             
+
+Finit !!! 21/03/2024
+
+# Security through obscurity
+1- 
+
+![](Security%20through%20obscurity/image.png)
+
+*   ![](Security%20through%20obscurity/1_image.png)
+    *   Utilisé l'utilitaire “**binwalk**” pour extraire les fichier cachés
+        *   “ **binwalk --run-as=root --dd=.\* meme\_1559010886025.jpg** ”
+*   ![](Security%20through%20obscurity/2_image.png)
+    *   hackerchat.png
+
+2-
+
+![](Security%20through%20obscurity/3_image.png)
+
+*   ![](Security%20through%20obscurity/4_image.png)
+    *   Extraire le fichier “ **hackerchat.png** ”
+        *   “ **unrar x 122A7** ”
+*   ![](Security%20through%20obscurity/5_image.png)
+*   ![](Security%20through%20obscurity/6_image.png)
 
 Finit !!! 21/03/2024
